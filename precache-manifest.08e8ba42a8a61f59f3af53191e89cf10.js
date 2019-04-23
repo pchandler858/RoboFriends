@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/RoboFriends/static/js/runtime~main.19bee101.js"
   },
   {
-    "revision": "4f1ad602e7f761954e6a",
-    "url": "/RoboFriends/static/js/main.ea344130.chunk.js"
+    "revision": "c7abfec7e3327a43105a",
+    "url": "/RoboFriends/static/js/main.4d5c9d81.chunk.js"
   },
   {
-    "revision": "a8ffd6bf859adaea09d1",
+    "revision": "34ebd26281a049d12a60",
     "url": "/RoboFriends/static/js/2.1a543e43.chunk.js"
   },
   {
-    "revision": "4f1ad602e7f761954e6a",
-    "url": "/RoboFriends/static/css/main.a438a129.chunk.css"
+    "revision": "c7abfec7e3327a43105a",
+    "url": "/RoboFriends/static/css/main.7b7a050f.chunk.css"
   },
   {
-    "revision": "a8ffd6bf859adaea09d1",
-    "url": "/RoboFriends/static/css/2.00e7d522.chunk.css"
+    "revision": "34ebd26281a049d12a60",
+    "url": "/RoboFriends/static/css/2.828adcec.chunk.css"
   },
   {
-    "revision": "879de3252541a0a186115c3c7b6fa7b4",
+    "revision": "6326718e6de6d4a9aaaf2812b20a8e96",
     "url": "/RoboFriends/index.html"
   }
 ];
